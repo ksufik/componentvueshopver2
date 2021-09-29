@@ -4,3 +4,4 @@ import Single from './Single.vue'
 
 createApp(App).mount('#app')
 createApp(Single).mount('#single')
+
